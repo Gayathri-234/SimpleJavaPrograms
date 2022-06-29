@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7373e51f-aeab-465c-a2c6-46ff111b2f18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Palandrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ReverseAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SwapNumbers.java" afterDir="false" />
+    <list default="true" id="7373e51f-aeab-465c-a2c6-46ff111b2f18" name="Changes" comment="Java Program Practice">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FindingDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PrimeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RemoveDuplicateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Palandrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Palandrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +44,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseAlgo">
-    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+  <component name="RunManager" selected="Application.PrimeOrNot">
+    <configuration name="FindingDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FindingDuplicateElements" />
       <module name="programCoding" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palandrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Palandrome" />
+    <configuration name="PrimeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PrimeOrNot" />
       <module name="programCoding" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ReverseAlgo" />
+    <configuration name="org.example.LargestOf3Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LargestOf3Number" />
       <module name="programCoding" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringReverse" />
+    <configuration name="org.example.RemoveDuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoveDuplicateString" />
       <module name="programCoding" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SwapNumbers" />
+    <configuration name="org.example.removedup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.removedup" />
       <module name="programCoding" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseAlgo" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.SwapNumbers" />
-        <item itemvalue="Application.AppTest" />
-        <item itemvalue="Application.Palandrome" />
+        <item itemvalue="Application.PrimeOrNot" />
+        <item itemvalue="Application.FindingDuplicateElements" />
+        <item itemvalue="Application.org.example.RemoveDuplicateString" />
+        <item itemvalue="Application.org.example.removedup" />
+        <item itemvalue="Application.org.example.LargestOf3Number" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +129,28 @@
       <option name="presentableId" value="Default" />
       <updated>1655862969072</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Program Practice">
+      <created>1656465778766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656465778766</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java Program Practice">
+      <created>1656465829261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656465829261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Program Practice">
+      <created>1656471879796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656471879796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +163,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Program Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Program Practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
