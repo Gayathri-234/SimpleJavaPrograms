@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7373e51f-aeab-465c-a2c6-46ff111b2f18" name="Changes" comment="Basic Programs">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SingleCharacOccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/LargestElementInArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RemoveDuplicateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/RemoveDuplicateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SingleCharacOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SingleCharOccurance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +37,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vgaya/IdeaProjects/programCoding",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseAlgo">
-    <configuration name="CountNumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CountNumOfDigits" />
-      <module name="programCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountSumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CountSumOfNumbers" />
+  <component name="RunManager" selected="Application.LargestElementInArrayList">
+    <configuration name="LargestElementInArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LargestElementInArrayList" />
       <module name="programCoding" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +94,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfAlternativeValInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SumOfAlternativeValInArray" />
+      <module name="programCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseAlgo" />
-        <item itemvalue="Application.RemoveDuplicateString" />
-        <item itemvalue="Application.CountSumOfNumbers" />
-        <item itemvalue="Application.SingleCharacOccurance" />
-        <item itemvalue="Application.CountNumOfDigits" />
+        <item itemvalue="Application.LargestElementInArrayList" />
+        <item itemvalue="Application.SumOfAlternativeValInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656510712073</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Basic Programs">
+      <created>1656608983891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656608983891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
