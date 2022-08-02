@@ -2,7 +2,7 @@ package org.example;
 
 public class FindingDuplicateElements {
     public static void main(String[] args) {
-        String arr[]={"Java","Python","C++","C"};
+        String arr[]={"Java","Python","C++","C","C","Java"};
         boolean flag=false;
         for (int i =0;i< arr.length;i++){
             for (int j=i+1;j< arr.length;j++){
