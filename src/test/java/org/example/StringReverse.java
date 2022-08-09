@@ -2,7 +2,7 @@ package org.example;
 
 public class StringReverse {
     public static void main(String[] args) {
-                String str= "1234", nstr="";
+                String str= "Gayathri", nstr="";
                 System.out.print("Original word:  "+str);
                 for (int i=0; i<str.length(); i++)
                 {
