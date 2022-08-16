@@ -10,13 +10,14 @@ public class Palandrome {
             char ch = str.charAt(i);
             reverseStr = reverseStr + ch;
         }
+        System.out.println("Reversed String is:"+reverseStr);
 
-        if (str.equalsIgnoreCase(reverseStr)) {
-            System.out.println("Given string "+str + " is a Palindrome String.");
-        } else {
-            System.out.println(str + " is not a Palindrome String.");
+ if (str.equalsIgnoreCase(reverseStr)) {
+      System.out.println("Given string "+str + " is a Palindrome String.");
+  } else {
+      System.out.println(str + " is not a Palindrome String.");
 
 
-        }
+   }
     }
 }
